@@ -7,11 +7,11 @@
 🌟 About Me
 --
 
-#### Hi there 👋
+**Hi there** 👋
 <p align="justify">
-I'm Primesh, a passionate Full Stack Web Developer and Software Engineer on a relentless pursuit of digital excellence. With a knack for crafting interactive and seamless web experiences, 
-  I've embarked on an exciting journey in the world of technology. As a seasoned Full Stack Developer, I thrive in the ever-evolving landscape of web development. 
-  From front-end magic that captivates users to back-end wizardry that powers applications, I'm well-versed in the entire web development spectrum.</p>
+I'm Primesh, a passionate <strong>Software Engineer</strong> on a relentless pursuit of digital excellence. With a knack for crafting interactive and seamless web experiences, 
+I've embarked on an exciting journey in the world of technology. As a seasoned <strong>Full Stack Developer</strong>, I thrive in the ever-evolving landscape of web development. 
+From front-end magic that captivates users to back-end wizardry that powers applications, I'm well-versed in the entire web development spectrum.</p>
 
 💡 My Philosophy
 --
