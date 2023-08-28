@@ -1,6 +1,7 @@
 
 
-![White Minimalist Corporate Personal Profile LinkedIn Banner 1](https://github.com/Primeshheshan/Primeshheshan/assets/60648856/1cc953b2-78f4-4bb6-8243-0db46df369ec)
+![White Minimalist Corporate Personal Profile LinkedIn Banner 1](https://github.com/Primeshheshan/Primeshheshan/assets/60648856/d10d9f8d-c39f-45a8-a5cd-8efd3dabf764)
+
 
 
 🌟 About Me
