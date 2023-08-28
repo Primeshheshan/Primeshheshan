@@ -8,7 +8,7 @@
 
 **Hi there** 👋
 <p align="justify">
-I'm Primesh, a passionate <strong>Software Engineer</strong> on a relentless pursuit of digital excellence. With a knack for crafting interactive and seamless web experiences, 
+I'm Primesh Heshan, a passionate <strong>Software Engineer</strong> on a relentless pursuit of digital excellence. With a knack for crafting interactive and seamless web experiences, 
 I've embarked on an exciting journey in the world of technology. As a seasoned <strong>Full Stack Developer</strong>, I thrive in the ever-evolving landscape of web development. 
 From front-end magic that captivates users to back-end wizardry that powers applications, I'm well-versed in the entire web development spectrum.</p>
 
