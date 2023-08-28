@@ -14,7 +14,7 @@ From front-end magic that captivates users to back-end wizardry that powers appl
 
 ## 💡 My Philosophy
 
-"Each day presents a new opportunity to learn, and I'm always ready to seize it." 🌠
+*"Each day presents a new opportunity to learn, and I'm always ready to seize it."* 🌠
 
 This quote is more than just words; it's my guiding principle. I believe that continuous learning is the foundation of innovation. Every sunrise brings fresh chances to expand my skill set, dive into new technologies, and tackle challenges head-on.
 
